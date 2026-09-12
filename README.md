@@ -380,11 +380,9 @@ CURRENT CGPA
 
 <br><br>
 
-`PROBLEM SOLVING`
-
-`DATA STRUCTURES`
-
-`ALGORITHMS`
+<a href="https://leetcode.com/u/romit581/">
+<img src="https://leetcard.jacoblin.cool/romit581?theme=dark&font=Karma&ext=heatmap">
+</a>
 
 </td>
 
@@ -398,11 +396,11 @@ CURRENT CGPA
 
 <br><br>
 
-`CODING PRACTICE`
-
 `PROBLEM SOLVING`
 
-`CERTIFICATIONS`
+`ALGORITHMS`
+
+`CODING PRACTICE`
 
 </td>
 
@@ -410,28 +408,3 @@ CURRENT CGPA
 </table>
 
 </div>
-
----
-
-## `12 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/romit581">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/romitsardar/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-`OPEN TO BUILDING INTERESTING THINGS.`
-
-<br><br>
-
-### `— END OF TRANSMISSION —`
-
-</div>
-
