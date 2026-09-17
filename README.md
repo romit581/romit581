@@ -12,16 +12,16 @@
 
 <br>
 <a href="https://www.linkedin.com/in/romitsardar/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://portfolio-website1-0.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF3B30?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-32550c?style=for-the-badge&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://leetcode.com/u/romit581/">
-<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
+<img src="https://img.shields.io/badge/LeetCode-c57600?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
 </a>
 <a href="https://www.hackerrank.com/profile/romitrrs05">
-<img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank">
+<img src="https://img.shields.io/badge/HackerRank-0a7d1b?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank">
 </a>
 
 
@@ -229,8 +229,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 <img src="https://img.shields.io/badge/romit581-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile">
 </a>
 
-<br><br>
-
+<br>
 <a href="https://leetcode.com/u/romit581/">
 <img src="https://leetcard.jacoblin.cool/romit581?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="50%">
 </a>
