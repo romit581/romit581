@@ -339,4 +339,8 @@ SKILLS
 
 Made with ♥ by <a href="https://github.com/romit581">Romit</a>
 
+
+<img src="https://i.pinimg.com/originals/f2/ef/7e/f2ef7e72a9a535475027132479427da6.gif" alt="Love" />
+
+
 </div>
