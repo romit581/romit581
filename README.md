@@ -177,7 +177,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 <img src="https://streak-stats.demolab.com?user=romit581&hide_border=true&background=0d1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FF3B30&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" width="70%" style="max-width:600px;">
 </a>
 
-<img src="https://i.pinimg.com/originals/e0/1d/d5/e01dd563948a8f6dac3244c0d429ba03.gif" alt="Typing intro" />
+<img src="https://i.pinimg.com/originals/e0/1d/d5/e01dd563948a8f6dac3244c0d429ba03.gif" alt="Typing intro" width="70%"/>
 </div>
 
 ---
