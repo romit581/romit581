@@ -282,7 +282,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 Made with ♥ by <a href="https://github.com/romit581">Romit</a>
 
 
-<img src="https://i.pinimg.com/originals/f2/ef/7e/f2ef7e72a9a535475027132479427da6.gif" alt="Love" />
+<img src="https://i.pinimg.com/originals/a2/4f/38/a24f387fd81d8d8eed91ae923564bd34.gif" alt="Love" />
 
 
 </div>
