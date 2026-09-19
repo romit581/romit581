@@ -288,6 +288,9 @@ Groq · NewsAPI
 <a href="https://www.instagram.com/_ravenshark05_/">
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
 </a>
+<a href="https://www.discord.com/users/730975468089769986">
+<img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+</a>
 
 
 <br><br>
