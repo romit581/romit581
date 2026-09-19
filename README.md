@@ -170,54 +170,69 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 ---
 
-## `> CONTRIBUTION // ACTIVITY`
-
-<div align="center">
-
-<br>
-
-<a href="https://github.com/romit581">
-<img src="https://streak-stats.demolab.com?user=romit581&hide_border=true&background=0d1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FF3B30&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" width="70%" style="max-width:600px;">
-</a>
-
-<img src="https://i.pinimg.com/originals/e0/1d/d5/e01dd563948a8f6dac3244c0d429ba03.gif" alt="Typing intro" width="70%"/>
-</div>
-
----
-
 ## `> LANGUAGES // FRAMEWORKS // TOOLS`
 
-<div align="center">
+<!-- ================= TOP ROW ================= -->
+
+<table width="100%" cellpadding="18" cellspacing="0" align="center">
+<tr>
+
+<td width="34%" align="center" valign="middle">
 
 ### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="Frontend technologies">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark"
+     alt="Frontend">
 
-<br><br>
+</td>
+
+<td width="33%" align="center" valign="middle">
 
 ### `PROGRAMMING`
 
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark"
+     alt="Programming">
 
-<br><br>
+</td>
+
+<td width="33%" align="center" valign="middle">
 
 ### `GAME DEV // DESIGN`
 
-<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" alt="Game development and design">
+<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark"
+     alt="Game Development and Design">
 
-<br><br>
+</td>
+
+</tr>
+</table>
+
+<!-- ================= BOTTOM ROW ================= -->
+
+<table width="100%" cellpadding="18" cellspacing="0" align="center">
+<tr>
+
+<td width="50%" align="center" valign="middle">
 
 ### `TOOLS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tensorflow,opencv&theme=dark"
+     alt="Tools">
 
-<br><br>
+</td>
+
+<td width="50%" align="center" valign="middle">
 
 ### `DATABASE // APIs`
 
-
-`SQLite` · `MySQL` · `JDBC` · `FastAPI` · `OpenRouter` · `Groq` · `NewsAPI`
-</div>
+```text
+SQLite · MySQL · JDBC
+FastAPI · OpenRouter
+Groq · NewsAPI
+```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -265,14 +280,15 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 <div align="center">
 
 <a href="https://github.com/romit581">
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/romitsardar/">
-<img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/_ravenshark05_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
 </a>
+
 
 <br><br>
 
