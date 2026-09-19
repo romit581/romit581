@@ -52,8 +52,13 @@
 ```text
 🎓 B.Tech — Computer Science & Engineering
 🏫 SRM Institute of Science and Technology
-📅 2024 ───────────────────── 2028
+📅 2024 ── 2028
+
+🎓 PCM (Class XI - XII)
+🏫 Sunbeam School of Excellence
+📅 2022 ── 2024
 ```
+
 
 ### `focus_areas.log`
 
