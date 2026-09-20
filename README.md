@@ -73,9 +73,8 @@
 ### `interests.cfg`
 
 ```text
-🧮 Mathematics  🎮 Video Games
+🧮 Mathematics  🎮 Video Games  🎨 Digital Art
 🕹️ Game Design  🚗 Cars
-🎨 Digital Art
 ```
 
 ### `about.txt`
