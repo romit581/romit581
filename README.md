@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/romitsardar/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://portfolio-website1-0.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-32550c?style=for-the-badge&logoColor=white" alt="Portfolio">
+<a href="https://rs05portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://leetcode.com/u/romit581/">
 <img src="https://img.shields.io/badge/LeetCode-c57600?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
