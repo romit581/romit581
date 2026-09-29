@@ -40,6 +40,7 @@
   src="https://i.pinimg.com/736x/af/5f/6e/af5f6efecb121b79f222d407de09b32b.jpg"
   alt="Profile artwork"
   width="100%"
+  align = "center"
   style="max-width: 360px;"
 />
 
