@@ -1,8 +1,5 @@
 <div align="center">
 
-<br>
-
-
 <img width="573" height="132" alt="image-Photoroom" src="https://github.com/user-attachments/assets/4b2b8384-013b-4abd-94ef-3b4a96543f78" />
 
 
