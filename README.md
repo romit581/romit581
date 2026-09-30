@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="573" height="132" alt="image-Photoroom" src="https://github.com/user-attachments/assets/4b2b8384-013b-4abd-94ef-3b4a96543f78" />
+<img width="80%" alt="image-Photoroom" src="https://github.com/user-attachments/assets/4b2b8384-013b-4abd-94ef-3b4a96543f78" />
 
 
 ### `FRONTEND UI DESIGNER` · `GAME DEVELOPER` · `CREATIVE TECHNOLOGIST`
@@ -94,8 +94,6 @@ turn ideas into interactive experiences.
 ## `> CURRENTLY_BUILDING`
 
 <div align="center">
-
-# 🎮 THE VEILED SOVEREIGN
 
 ### `A DARK-FANTASY 2D TOP-DOWN RPG`
 
