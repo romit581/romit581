@@ -8,9 +8,6 @@
 <img src="https://i.pinimg.com/originals/c2/53/fd/c253fd9fb4cf230b8b53cdb8cc323805.gif" alt="Typing intro" />
 
 <br>
-<a href="https://www.linkedin.com/in/romitsardar/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 <a href="https://rs05portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logoColor=white" alt="Portfolio">
 </a>
@@ -22,8 +19,6 @@
 </a>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=romit581.romit581&"  />
-
-
 
 
 </div>
@@ -183,9 +178,6 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 ---
 
-
----
-
 ## `> LANGUAGES // FRAMEWORKS // TOOLS`
 
 <!-- ================= TOP ROW ================= -->
@@ -274,8 +266,6 @@ Groq · NewsAPI
 <img src="https://img.shields.io/badge/VIEW_PROFILE-FF3B30?style=for-the-badge" alt="View LeetCode profile">
 </a>
 </div>
-
-
 
 
 
