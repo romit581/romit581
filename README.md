@@ -285,6 +285,9 @@ Groq · NewsAPI
 <a href="https://www.discord.com/users/730975468089769986">
 <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
 </a>
+<a href="mailto:romitrrs05@gmail.com?subject=Hello%20Romit">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+</a>
 
 
 <br><br>
