@@ -25,7 +25,7 @@
 
 ---
 
-## `> ABOUT.TXT`
+<img src = "https://fontmeme.com/temporary/a3df2ef38412b2295a5f66d6970e87ea.png">
 
 <table width="100%" cellpadding="8" cellspacing="0">
 <tr>
@@ -42,19 +42,6 @@
 </td>
 
 <td width="50%" valign="top">
-
-### `education.txt`
-
-```text
-🎓 B.Tech — Computer Science & Engineering
-🏫 SRM Institute of Science and Technology
-📅 2024 ── 2028
-
-🎓 PCM (Class XI - XII)
-🏫 Sunbeam School of Excellence
-📅 2022 ── 2024
-```
-
 
 ### `focus_areas.log`
 
@@ -91,9 +78,8 @@ turn ideas into interactive experiences.
 
 ---
 
-## `> CURRENTLY_BUILDING`
-
 <div align="center">
+<img src ="https://fontmeme.com/temporary/61dcc7bcd11938a17131fcf00bc439a9.png">
 
 ### `A DARK-FANTASY 2D TOP-DOWN RPG`
 
@@ -149,10 +135,10 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 ---
 
-## `> GITHUB // SYSTEM STATUS`
-
+<div align = "center">
+<img src = "https://fontmeme.com/temporary/44fbd4087b7bab206ed301f00a32d698.png">
+</div>
 <div align="center">
-
 <a href="https://github.com/romit581">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romit581&theme=github_dark" alt="GitHub Profile Details" width="100%">
 </a>
@@ -163,9 +149,10 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 ---
 
-## `> CONTRIBUTION // ACTIVITY`
+
 
 <div align="center">
+  <img src = "https://fontmeme.com/temporary/018d27538d4794e5ff44dfb5b05faeb4.png">
 <br>
 <a href="https://github.com/romit581">
 <img src="https://streak-stats.demolab.com?user=romit581&hide_border=true&background=0d1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FF3B30&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" width="60%" style="max-width:600px;">
@@ -175,8 +162,10 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 </div>
 
 ---
-
-## `> LANGUAGES // FRAMEWORKS // TOOLS`
+<div align = "center">
+<img src = "https://fontmeme.com/temporary/2e554e0358557b612f89e91e19bb0df4.png">
+</div>
+<br>
 
 <!-- ================= TOP ROW ================= -->
 
@@ -241,9 +230,9 @@ Groq · NewsAPI
 </table>
 
 ---
-
-## `> COMPETITIVE // ARENA`
-
+<div align = "center">
+<img src = "https://fontmeme.com/temporary/111a6f9ec81375bd74e5d7d64f6f44ab.png">
+</div>
 
 ### LEETCODE
 
@@ -269,9 +258,9 @@ Groq · NewsAPI
 
 ---
 
-## `> BEYOND // CODE`
 
 <div align="center">
+<img src = "https://fontmeme.com/temporary/53681e2f031a4bd340f89373cdc08a44.png">
 
 `🎮 VIDEO GAMES` · `🎨 DRAWING` · `🧮 MATHEMATICS` · `🚗 CARS` · `🕹️ GAME DESIGN` · `✏️ DIGITAL ART`
 
@@ -279,10 +268,11 @@ Groq · NewsAPI
 
 ---
 
-## `> CONNECT`
 
 <div align="center">
-
+<img src = "https://fontmeme.com/permalink/261001/2e427df1.png">
+<br><br>
+  
 <a href="https://github.com/romit581">
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
 </a>
