@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="80%" alt="image-Photoroom" src="https://github.com/user-attachments/assets/4b2b8384-013b-4abd-94ef-3b4a96543f78" />
+<img alt="image-Photoroom (5)" src="https://github.com/user-attachments/assets/93399d6c-cccf-4abb-894b-6036b45f0603" />
 
 
 ### `FRONTEND UI DESIGNER` · `GAME DEVELOPER` · `CREATIVE TECHNOLOGIST`
