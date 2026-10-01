@@ -23,7 +23,7 @@
 
 </div>
 
----
+<br><br>
 
 <img src = "https://fontmeme.com/permalink/261001/ec423ade.png">
 
@@ -232,10 +232,9 @@ Groq · NewsAPI
 ---
 <div align = "center">
 <img src = "https://fontmeme.com/permalink/261001/cde0af8b.png">
-</div>
-
+  
 ### LEETCODE
-
+</div>
 
 <div align="center">
 <a href="https://leetcode.com/u/romit581/">
