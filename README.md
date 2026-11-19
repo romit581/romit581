@@ -174,7 +174,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 <td width="34%" align="center" valign="middle">
 
-### `FRONTEND`
+<img src = "https://fontmeme.com/permalink/261119/fe8c8a93.png" width=45%>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark"
      alt="Frontend">
@@ -183,7 +183,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 <td width="33%" align="center" valign="middle">
 
-### `PROGRAMMING`
+<img src = "https://fontmeme.com/permalink/261119/d9bf39aa.png" width=65%>
 
 <img src="https://skillicons.dev/icons?i=java,python&theme=dark"
      alt="Programming">
@@ -192,8 +192,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 <td width="33%" align="center" valign="middle">
 
-### `GAME DEV // DESIGN`
-
+<img src = "https://fontmeme.com/permalink/261119/ef3ea028.png" width=90%>
 <img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark"
      alt="Game Development and Design">
 
@@ -209,7 +208,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 <td width="50%" align="center" valign="middle">
 
-### `TOOLS`
+<img src = "https://fontmeme.com/permalink/261119/9755cdf0.png" width=18.4%>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tensorflow,opencv&theme=dark"
      alt="Tools">
@@ -218,7 +217,7 @@ A personal game project inspired by dark fantasy, Soulslike design and classic R
 
 <td width="50%" align="center" valign="middle">
 
-### `DATABASE // APIs`
+<img src = "https://fontmeme.com/permalink/261119/ef714f36.png" width=60%>
 
 ```text
 SQLite · MySQL · JDBC
